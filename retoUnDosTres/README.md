@@ -20,7 +20,7 @@
 
 # Guía de usuario
 
-* ### Ejecución del proyecto:
+### Ejecución del proyecto:
 
 1. En la Terminal, acceder a la carpeta raíz del proyecto.
 2. Ejecutar el comando: `mvn test -Dtest=RetoTest -Dkarate.env=dev`
